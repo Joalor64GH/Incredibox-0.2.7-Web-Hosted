@@ -88,7 +88,7 @@ var app = new function(){
 		}
 		console.log(that.unlockerarray)
 	}
-	//trierCodeBonus(); // Pas besoin finalement, ça servait 
+	trierCodeBonus(); // Pas besoin finalement, ça servait 
 
 	/*	------------------------------ REMPLIR LE TABLEAU ANIMEARRAY */
 	
